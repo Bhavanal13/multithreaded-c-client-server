@@ -1,13 +1,13 @@
-# Multithreaded C++ Client-Server
+# Multithreaded C Client-Server
 
-A multithreaded client-server application developed in C++ to demonstrate
+A multithreaded client-server application developed in C to demonstrate
 TCP socket communication, concurrent client handling, and thread
 synchronization.
 
 ## Features
 
 - TCP client-server communication
-- Socket programming in C++
+- Socket programming in C
 - Multiple client connections
 - Multithreaded client handling
 - Mutex-based synchronization
@@ -26,7 +26,7 @@ synchronization.
 
 ## Technologies
 
-- C++
+- C
 - Linux
 - TCP/IP
 - POSIX Sockets
